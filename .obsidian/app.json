@@ -1,0 +1,21 @@
+{
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "0-临时文件",
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "showLineNumber": true,
+  "trashOption": "system",
+  "newFileFolderPath": "0-临时文件",
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest"
+}

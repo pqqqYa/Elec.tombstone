@@ -1,0 +1,1 @@
+[将 Excel 和 Word 的表格拷贝到 Obsidian ](https://www.readinghere.com/blog/copy-excel-word-table-to-obsidian-cn/#22)
