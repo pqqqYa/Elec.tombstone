@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "机器学习/机器视觉/MINIST手写识别.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "机器学习/机器视觉/MINIST手写识别.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "机器学习/机器视觉/MINIST手写识别.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "机器学习/机器视觉/MINIST手写识别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,6 +170,16 @@
   },
   "active": "e5119a8ff7ffafb5",
   "lastOpenFiles": [
+    "机器学习/机器视觉/机器视觉附件/MINIST手写识别文件结构.png",
+    "机器学习/知识点/知识点附件/池化层演示.png",
+    "机器学习/知识点/知识点内容/prompt.md",
+    "机器学习/知识点/知识点目录.md",
+    "机器学习/知识点/知识点内容/卷积神经网络CNN.md",
+    "课外课程/神经网络与深度学习/课节1 绪论/1.n 绪论.md",
+    "课外课程/课外课程附件/高斯分布和累积分布对比.png",
+    "课外课程/课外课程附件/泛化错误.png",
+    "课外课程/课外课程附件/表示学习的流程.png",
+    "README.md",
     "软件/git/github.md",
     "软件/git/git.md",
     "学校课程/习思想/总结.md",
@@ -192,19 +202,13 @@
     "编程语言/python/python附件",
     "编程语言/python/youtube-dl.md",
     "编程语言/各种编程语言的不同.md",
-    "机器学习/知识点/知识点目录.md",
     "机器学习/知识点/知识点内容/pyTorch.md",
     "机器学习/知识点/知识点内容/pandas.md",
     "机器学习/知识点/知识点内容/Numpy.md",
-    "机器学习/知识点/知识点内容/梯度下降法.md",
-    "机器学习/知识点/知识点内容/卷积convolution.md",
-    "机器学习/知识点/知识点内容/卷积神经网络CNN.md",
     "机器学习/知识点/知识点内容",
     "机器学习/知识点/知识点附件/未命名",
-    "机器学习/知识点/知识点内容/神经网络.md",
     "机器学习/知识点/知识点附件/机器学习路线图.png",
     "机器学习/知识点",
-    "机器学习/机器视觉/MINIST手写识别.md",
     "课外课程/Linear Algebra/线性代数.canvas",
     "课外课程/Linear Algebra",
     "课外课程/神经网络与深度学习/课节3 线性分类",
@@ -213,10 +217,6 @@
     "课外课程/课外课程附件/多项式次数选择问题.png",
     "课外课程/课外课程附件/平方误差.png",
     "0-临时文件/曲线拟合.png",
-    "课外课程/课外课程附件/矩阵微积分.png",
-    "课外课程/课外课程附件/线性回归.png",
-    "0-临时文件/结构风险最小化.png",
-    "0-临时文件/Pasted image 20230624092146.png",
     "未命名.canvas",
     "未命名 1.canvas",
     "学校课程/未命名.canvas"
