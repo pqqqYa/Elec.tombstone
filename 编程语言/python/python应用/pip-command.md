@@ -7,7 +7,7 @@ https://pypi.tuna.tsinghua.edu.cn/simple
 `pip config set global.index-url` 
 https://pypi.org/simple/
 # 2. 查看pip位置
-`python -m site` 
+	`python -m site` 
 # 3. 安装
 ## 1. 安装
 `pip install 名字`
