@@ -11,9 +11,11 @@
             "id": "e5119a8ff7ffafb5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CET4/讲义/1.预备课/预备课讲义打印版PDF.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CET4/讲义/1.预备课/预备课讲义打印版PDF.pdf",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CET4/讲义/1.预备课/预备课讲义打印版PDF.pdf"
+                "file": "README.md"
               }
             }
           },
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CET4/讲义/1.预备课/预备课讲义打印版PDF.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +177,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ef2b129372f41ca2",
+  "active": "e5119a8ff7ffafb5",
   "lastOpenFiles": [
+    "CET4/讲义/1.预备课/预备课讲义打印版PDF.pdf",
     "0-临时文件/计划.md",
     "CET4/真题/2023年03月CET4题+解+音频【新】/04、听力音频/提示：本次实考1套听力，全部试卷共用一套听力音频.txt",
     "CET4/真题/2023年03月CET4题+解+音频【新】/04、听力音频/2023年03月四级真题（3套相同）听力音频.mp3",
@@ -222,7 +225,6 @@
     "机器学习/知识点/知识点内容/卷积神经网络CNN.md",
     "软件/git/github.md",
     "软件/git/git.md",
-    "学校课程/习思想/专题一  新时代 新思想 新飞跃.md",
     "课外课程/Linear Algebra/线性代数.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
