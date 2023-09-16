@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83e37352edb4fc4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fd3bc1156228db94",
+  "active": "83e37352edb4fc4c",
   "lastOpenFiles": [
     "系统操作/windows/Path环境变量.md",
     "系统操作/windows/cmd操作.md",
