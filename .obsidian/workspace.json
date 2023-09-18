@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件使用/SQL server/SQL server安装.md",
+                "file": "学校课程/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 200
   },
   "right": {
     "id": "6b3cb7951a562e8b",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件使用/SQL server/SQL server安装.md",
+                "file": "学校课程/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件使用/SQL server/SQL server安装.md"
+                "file": "学校课程/README.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件使用/SQL server/SQL server安装.md",
+                "file": "学校课程/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 456.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +178,22 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fd3bc1156228db94",
+  "active": "ef2b129372f41ca2",
   "lastOpenFiles": [
+    "学校课程/离散数学/14 范式.pdf",
+    "学校课程/离散数学/13 命题逻辑等值逻辑.pdf",
+    "学校课程/离散数学/12 命题公式及分类.pdf",
+    "学校课程/离散数学/11命题符号以及联结词.pdf",
+    "学校课程/中国近代史纲要/第一章.pdf",
+    "学校课程/中国近代史纲要/开篇.pdf",
+    "学校课程/离散数学/12 命题公式及分类_230913_152217 (1).pdf",
+    "学校课程/离散数学/11命题符号以及联结词_230913_144149 (1).pdf",
+    "学校课程/离散数学/14 范式_230918_112247.pdf",
+    "学校课程/离散数学/13 命题逻辑等值逻辑_230918_101239 (1).pdf",
+    "学校课程/离散数学/课件/1.7.pdf",
+    "CET4/Tips.md",
+    "CET4/tips附件/听力tips1.png",
+    "软件使用/SQL server/SQL server安装.md",
     "软件使用/vim/vim指令.md",
     "软件使用/eslipse.md",
     "README.md",
@@ -187,7 +202,6 @@
     "系统操作/Liunx/liunx指令.md",
     "0-临时文件/计划.md",
     "学校课程/程序设计Ⅰ/程序设计I.md",
-    "学校课程/程序设计Ⅰ",
     "学校课程/程序设计Ⅰ/python应用/pip-command.md",
     "学校课程/程序设计Ⅰ/各种编程语言的不同.md",
     "学校课程/程序设计Ⅱ/黑马程序员java/未命名.md",
@@ -198,24 +212,12 @@
     "软件使用/IDEA/IDEA.md",
     "软件使用/Notepad++/Notepad++.md",
     "软件使用/OpenSSL/OpenSSL配置.md",
-    "软件使用/SQL server/SQL server安装.md",
     "学校课程/数据结构/DSA_Review.md",
-    "CET4/Tips.md",
-    "CET4/讲义/1.预备课/预备课讲义打印版PDF.pdf",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/04、听力音频/提示：本次实考1套听力，全部试卷共用一套听力音频.txt",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/04、听力音频/2023年03月四级真题（3套相同）听力音频.mp3",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/04、听力音频",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/03、答案解析/2023.03英语四级详解第3套.pdf",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/03、答案解析/2023.03英语四级详解第2套.pdf",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/03、答案解析/2023.03英语四级详解第1套.pdf",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/03、答案解析",
-    "CET4/真题/2023年03月CET4题+解+音频【新】/02、真题word版/2023.03英语四级真题第3套.docx",
     "课外课程/机器学习/知识点/知识点目录.md",
     "课外课程/机器学习/知识点/知识点附件/池化层演示.png",
     "学校课程/程序设计Ⅱ/黑马程序员java/Java基础.md",
     "学校课程/程序设计Ⅱ/黑马程序员java/Java的内存分配.md",
     "学校课程/程序设计Ⅱ/黑马程序员java/集合.md",
-    "学校课程/程序设计Ⅱ/黑马程序员java/JDK和JRE.md",
     "学校课程/小学期2023.6/无效（取消）订单比例&未支付订单分布图.png",
     "学校课程/小学期2023.6/订单数量与平均优惠价格.png",
     "学校课程/小学期2023.6/有效订单量分布图.png",
@@ -224,7 +226,6 @@
     "学校课程/小学期2023.6/各省有效订单数量分布图.png",
     "学校课程/小学期2023.6/各品牌有效订单数量和累计百分比.png",
     "学校课程/小学期2023.6/各品牌平均价格和市场占有率.png",
-    "学校课程/小学期2023.6/人均有效订单量.png",
     "课外课程/Linear Algebra/线性代数.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
