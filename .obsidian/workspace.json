@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学校课程/README.md",
+                "file": "CET4/Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学校课程/README.md",
+                "file": "CET4/Tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学校课程/README.md"
+                "file": "CET4/Tips.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学校课程/README.md",
+                "file": "CET4/Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +178,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ef2b129372f41ca2",
+  "active": "fd3bc1156228db94",
   "lastOpenFiles": [
+    "学校课程/README.md",
     "学校课程/离散数学/14 范式.pdf",
     "学校课程/离散数学/13 命题逻辑等值逻辑.pdf",
     "学校课程/离散数学/12 命题公式及分类.pdf",
@@ -190,7 +191,6 @@
     "学校课程/离散数学/11命题符号以及联结词_230913_144149 (1).pdf",
     "学校课程/离散数学/14 范式_230918_112247.pdf",
     "学校课程/离散数学/13 命题逻辑等值逻辑_230918_101239 (1).pdf",
-    "学校课程/离散数学/课件/1.7.pdf",
     "CET4/Tips.md",
     "CET4/tips附件/听力tips1.png",
     "软件使用/SQL server/SQL server安装.md",
