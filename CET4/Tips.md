@@ -11,6 +11,8 @@
  
 ## Section C 篇章
  able = can
+ do not标出来
+ aviod doing 避免做某事 
 
 # 二、阅读题
 1. 完整阅读所有题目，只读题目不读选项
