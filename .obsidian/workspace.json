@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "667ac8486be70477",
+        "id": "ff85d5263aba6a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "fd3bc1156228db94",
+            "id": "32f26cc9b0fa02f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CET4/Tips.md",
+                "file": "CET/Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5
   },
   "right": {
     "id": "6b3cb7951a562e8b",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CET4/Tips.md",
+                "file": "CET/Tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CET4/Tips.md"
+                "file": "CET/Tips.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CET4/Tips.md",
+                "file": "CET/Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +177,24 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fd3bc1156228db94",
+  "active": "32f26cc9b0fa02f7",
   "lastOpenFiles": [
-    "CET4/Tips.md",
+    "CET/讲义/4.听力/2023下半年四级听力讲义打印版.pdf",
+    "CET/Tips.md",
+    "软件使用/PS/Ⅰ 彩色图片转线稿.md",
+    "软件使用/PS/PS附件",
+    "软件使用/PS/PS附件/Ⅰ Step7.png",
+    "软件使用/PS/PS附件/Ⅰ Step6.png",
+    "软件使用/PS/PS附件/Ⅰ Step5.png",
+    "软件使用/PS/PS附件/Ⅰ Step4.png",
+    "软件使用/PS/PS附件/Ⅰ Step3.png",
+    "软件使用/obsidian/MarkDown语法.md",
+    "软件使用/obsidian/obsidan使用.md",
+    "软件使用/obsidian/创建交互式图形.md",
+    "软件使用/obsidian/表格拷贝到 Obsidian.md",
+    "软件使用/PS/PS附件/Ⅰ Step2.png",
+    "软件使用/PS/PS附件/Ⅰ Step1.png",
+    "软件使用/PS",
     "0-临时文件/未命名.md",
     "学校课程/README.md",
     "学校课程/离散数学/14 范式.pdf",
@@ -191,9 +205,7 @@
     "学校课程/中国近代史纲要/开篇.pdf",
     "学校课程/离散数学/12 命题公式及分类_230913_152217 (1).pdf",
     "学校课程/离散数学/11命题符号以及联结词_230913_144149 (1).pdf",
-    "学校课程/离散数学/14 范式_230918_112247.pdf",
-    "学校课程/离散数学/13 命题逻辑等值逻辑_230918_101239 (1).pdf",
-    "CET4/tips附件/听力tips1.png",
+    "CET/tips附件/听力tips1.png",
     "软件使用/SQL server/SQL server安装.md",
     "软件使用/vim/vim指令.md",
     "软件使用/eslipse.md",
@@ -211,21 +223,8 @@
     "软件使用/git/github.md",
     "软件使用/git/git.md",
     "软件使用/IDEA/IDEA.md",
-    "软件使用/Notepad++/Notepad++.md",
-    "软件使用/OpenSSL/OpenSSL配置.md",
-    "学校课程/数据结构/DSA_Review.md",
-    "课外课程/机器学习/知识点/知识点目录.md",
     "课外课程/机器学习/知识点/知识点附件/池化层演示.png",
-    "学校课程/程序设计Ⅱ/黑马程序员java/Java基础.md",
-    "学校课程/程序设计Ⅱ/黑马程序员java/Java的内存分配.md",
     "学校课程/小学期2023.6/无效（取消）订单比例&未支付订单分布图.png",
-    "学校课程/小学期2023.6/订单数量与平均优惠价格.png",
-    "学校课程/小学期2023.6/有效订单量分布图.png",
-    "学校课程/小学期2023.6/前十省份的客单价.png",
-    "学校课程/小学期2023.6/各省份的客单价和订单数量对比.png",
-    "学校课程/小学期2023.6/各省有效订单数量分布图.png",
-    "学校课程/小学期2023.6/各品牌有效订单数量和累计百分比.png",
-    "学校课程/小学期2023.6/各品牌平均价格和市场占有率.png",
     "课外课程/Linear Algebra/线性代数.canvas",
     "未命名.canvas",
     "未命名 1.canvas",

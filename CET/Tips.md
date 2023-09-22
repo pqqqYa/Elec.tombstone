@@ -11,8 +11,15 @@
  
 ## Section C 篇章
  able = can
+ quantity = number
  do not标出来
  aviod doing 避免做某事 
+ 
+### Ⅰ. 听题目
+到了22题开始就可以适当的听题目了（已经到了文章的末尾了
+### Ⅱ.正确选项
+同义替换，有可能是原词也有可能是同义词
+看选项，看不同的地方，同样的地方可能是同义词
 
 # 二、阅读题
 1. 完整阅读所有题目，只读题目不读选项
@@ -22,3 +29,11 @@
 ### Ⅰ. 读文章翻译不出来
 1. 带着意思大概看
 2. 找主干
+
+
+
+* due to 由于....的原因（一般是坏的原因）
+* can be chalk up to 可以归因于
+* while，although，even
+though，though，despite ，insipte of，
+nonetheless，albeit尽管但是
