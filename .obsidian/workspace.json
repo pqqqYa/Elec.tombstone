@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +180,12 @@
   },
   "active": "32f26cc9b0fa02f7",
   "lastOpenFiles": [
-    "CET/讲义/4.听力/2023下半年四级听力讲义打印版.pdf",
-    "CET/Tips.md",
+    "软件使用/vim/vim指令.md",
     "软件使用/PS/Ⅰ 彩色图片转线稿.md",
+    "学校课程/程序设计Ⅰ/程序设计I.md",
+    "学校课程/程序设计Ⅰ/python应用/pip-command.md",
+    "CET/Tips.md",
+    "CET/讲义/4.听力/2023下半年四级听力讲义打印版.pdf",
     "软件使用/PS/PS附件",
     "软件使用/PS/PS附件/Ⅰ Step7.png",
     "软件使用/PS/PS附件/Ⅰ Step6.png",
@@ -204,18 +208,14 @@
     "学校课程/中国近代史纲要/第一章.pdf",
     "学校课程/中国近代史纲要/开篇.pdf",
     "学校课程/离散数学/12 命题公式及分类_230913_152217 (1).pdf",
-    "学校课程/离散数学/11命题符号以及联结词_230913_144149 (1).pdf",
     "CET/tips附件/听力tips1.png",
     "软件使用/SQL server/SQL server安装.md",
-    "软件使用/vim/vim指令.md",
     "软件使用/eslipse.md",
     "README.md",
     "系统操作/windows/Path环境变量.md",
     "系统操作/windows/cmd操作.md",
     "系统操作/Liunx/liunx指令.md",
     "0-临时文件/计划.md",
-    "学校课程/程序设计Ⅰ/程序设计I.md",
-    "学校课程/程序设计Ⅰ/python应用/pip-command.md",
     "学校课程/程序设计Ⅰ/各种编程语言的不同.md",
     "学校课程/程序设计Ⅱ/黑马程序员java/未命名.md",
     "课外课程/计算机底层/计算机的存储规则.md",
