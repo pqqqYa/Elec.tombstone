@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "学校课程/离散数学/14 范式.pdf"
+                "file": "学校课程/信息检索与信息素养/1 绪论.pdf"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学校课程/离散数学/14 范式.pdf",
+                "file": "学校课程/信息检索与信息素养/1 绪论.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学校课程/离散数学/14 范式.pdf"
+                "file": "学校课程/信息检索与信息素养/1 绪论.pdf"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学校课程/离散数学/14 范式.pdf",
+                "file": "学校课程/信息检索与信息素养/1 绪论.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,22 +186,26 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "32f26cc9b0fa02f7",
+  "active": "ef2b129372f41ca2",
   "lastOpenFiles": [
+    "学校课程/信息检索与信息素养/3 学习与搜索.pdf",
+    "学校课程/信息检索与信息素养/2 检索基础.pdf",
+    "课外课程/机器学习/机器视觉/MINIST手写识别.md",
+    "软件使用/git/git.md",
+    "软件使用/SQL server/SQL server安装.md",
+    "软件使用/Notepad++/Notepad++.md",
+    "学校课程/离散数学/14 范式.pdf",
     "学校课程/离散数学/12 命题公式及分类.pdf",
     "学校课程/离散数学/13 命题逻辑等值逻辑.pdf",
-    "学校课程/离散数学/14 范式.pdf",
     "学校课程/离散数学/11命题符号以及联结词.pdf",
     "学校课程/离散数学/15 联结词全功能集＊.pdf",
     "学校课程/信息检索与信息素养/1 绪论.pdf",
-    "学校课程/信息检索与信息素养/2 检索基础.pdf",
     "学校课程/1 绪论.pdf",
     "学校课程/2 检索基础.pdf",
     "学校课程/信息检索与信息素养",
     "学校课程/信息检索.md",
     "学校课程/信息资源管理.md",
     "CET/Tips.md",
-    "学校课程/离散数学/15 联结词全功能集＊_230920_154751 (1).tmp",
     "软件使用/vim/vim指令.md",
     "软件使用/PS/Ⅰ 彩色图片转线稿.md",
     "学校课程/程序设计Ⅰ/程序设计I.md",
@@ -220,7 +224,6 @@
     "0-临时文件/未命名.md",
     "学校课程/README.md",
     "CET/tips附件/听力tips1.png",
-    "软件使用/SQL server/SQL server安装.md",
     "软件使用/eslipse.md",
     "README.md",
     "系统操作/windows/Path环境变量.md",
@@ -229,9 +232,6 @@
     "0-临时文件/计划.md",
     "学校课程/程序设计Ⅰ/各种编程语言的不同.md",
     "学校课程/程序设计Ⅱ/黑马程序员java/未命名.md",
-    "课外课程/计算机底层/计算机的存储规则.md",
-    "课外课程/计算机底层/原码、反码、补码.md",
-    "软件使用/git/github.md",
     "课外课程/机器学习/知识点/知识点附件/池化层演示.png",
     "学校课程/小学期2023.6/无效（取消）订单比例&未支付订单分布图.png",
     "课外课程/Linear Algebra/线性代数.canvas",
