@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff85d5263aba6a0f",
+        "id": "9530eb2fec86b96d",
         "type": "tabs",
         "children": [
           {
-            "id": "32f26cc9b0fa02f7",
+            "id": "029c4dc229f49f6e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "学校课程/信息检索与信息素养/1 绪论.pdf"
-              }
-            }
-          },
-          {
-            "id": "0d3c8b81777b0a94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "学校课程/离散数学/12 命题公式及分类.pdf"
+                "file": "学校课程/离散数学/第一章/1x 总结.pdf"
               }
             }
           }
@@ -113,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学校课程/信息检索与信息素养/1 绪论.pdf",
+                "file": "学校课程/离散数学/第一章/1x 总结.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学校课程/信息检索与信息素养/1 绪论.pdf"
+                "file": "学校课程/离散数学/第一章/1x 总结.pdf"
               }
             }
           },
@@ -140,9 +130,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学校课程/信息检索与信息素养/1 绪论.pdf",
+                "file": "学校课程/离散数学/第一章/1x 总结.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c455adf092c51235",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "学校课程/离散数学/第一章/13 命题逻辑等值逻辑.pdf"
               }
             }
           },
@@ -168,11 +168,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,23 +186,23 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ef2b129372f41ca2",
+  "active": "029c4dc229f49f6e",
   "lastOpenFiles": [
+    "学校课程/离散数学/第一章/14 范式.pdf",
+    "学校课程/离散数学/第一章/15 联结词全功能集＊.pdf",
+    "学校课程/离散数学/第一章/17 命题逻辑的推理理论.pdf",
+    "学校课程/离散数学/第一章/13 命题逻辑等值逻辑.pdf",
+    "学校课程/离散数学/课件/1.7.pdf",
+    "学校课程/离散数学/第一章/17 命题逻辑的推理理论_230925_121046 (2).pdf",
+    "学校课程/离散数学/第一章/12 命题公式及分类.pdf",
+    "学校课程/离散数学/第一章",
+    "学校课程/信息检索与信息素养/1 绪论.pdf",
     "学校课程/信息检索与信息素养/3 学习与搜索.pdf",
     "学校课程/信息检索与信息素养/2 检索基础.pdf",
     "课外课程/机器学习/机器视觉/MINIST手写识别.md",
     "软件使用/git/git.md",
     "软件使用/SQL server/SQL server安装.md",
     "软件使用/Notepad++/Notepad++.md",
-    "学校课程/离散数学/14 范式.pdf",
-    "学校课程/离散数学/12 命题公式及分类.pdf",
-    "学校课程/离散数学/13 命题逻辑等值逻辑.pdf",
-    "学校课程/离散数学/11命题符号以及联结词.pdf",
-    "学校课程/离散数学/15 联结词全功能集＊.pdf",
-    "学校课程/信息检索与信息素养/1 绪论.pdf",
-    "学校课程/1 绪论.pdf",
-    "学校课程/2 检索基础.pdf",
-    "学校课程/信息检索与信息素养",
     "学校课程/信息检索.md",
     "学校课程/信息资源管理.md",
     "CET/Tips.md",
