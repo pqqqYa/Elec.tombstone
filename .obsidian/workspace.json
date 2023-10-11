@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9530eb2fec86b96d",
+        "id": "bbf25704db5e90bd",
         "type": "tabs",
         "children": [
           {
-            "id": "029c4dc229f49f6e",
+            "id": "36400be126063b68",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "学校课程/离散数学/第一章/1x 总结.pdf"
+                "file": "学校课程/信息检索与信息素养/中国近代史纲要/第一章.pdf"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "平方",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 305.5
   },
   "right": {
     "id": "6b3cb7951a562e8b",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学校课程/离散数学/第一章/1x 总结.pdf",
+                "file": "学校课程/信息检索与信息素养/中国近代史纲要/第一章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学校课程/离散数学/第一章/1x 总结.pdf"
+                "file": "学校课程/信息检索与信息素养/中国近代史纲要/第一章.pdf"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学校课程/离散数学/第一章/1x 总结.pdf",
+                "file": "学校课程/信息检索与信息素养/中国近代史纲要/第一章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,11 +168,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 228.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,54 +186,54 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "029c4dc229f49f6e",
+  "active": "36400be126063b68",
   "lastOpenFiles": [
-    "学校课程/离散数学/第一章/14 范式.pdf",
-    "学校课程/离散数学/第一章/15 联结词全功能集＊.pdf",
-    "学校课程/离散数学/第一章/17 命题逻辑的推理理论.pdf",
-    "学校课程/离散数学/第一章/13 命题逻辑等值逻辑.pdf",
-    "学校课程/离散数学/课件/1.7.pdf",
-    "学校课程/离散数学/第一章/17 命题逻辑的推理理论_230925_121046 (2).pdf",
-    "学校课程/离散数学/第一章/12 命题公式及分类.pdf",
-    "学校课程/离散数学/第一章",
-    "学校课程/信息检索与信息素养/1 绪论.pdf",
-    "学校课程/信息检索与信息素养/3 学习与搜索.pdf",
+    "学校课程/习思想/专题三 全面建设社会主义现代化国家.md",
+    "学校课程/习思想/专题七 实现经济高质量发展.md",
     "学校课程/信息检索与信息素养/2 检索基础.pdf",
-    "课外课程/机器学习/机器视觉/MINIST手写识别.md",
-    "软件使用/git/git.md",
-    "软件使用/SQL server/SQL server安装.md",
-    "软件使用/Notepad++/Notepad++.md",
-    "学校课程/信息检索.md",
-    "学校课程/信息资源管理.md",
-    "CET/Tips.md",
-    "软件使用/vim/vim指令.md",
-    "软件使用/PS/Ⅰ 彩色图片转线稿.md",
+    "学校课程/信息检索与信息素养/1 绪论.pdf",
+    "学校课程/程序设计Ⅰ/各种编程语言的不同.md",
     "学校课程/程序设计Ⅰ/程序设计I.md",
-    "学校课程/程序设计Ⅰ/python应用/pip-command.md",
+    "软件使用/eslipse.md",
+    "学校课程/信息资源管理.md",
+    "学校课程/高等数学2/9 二重积分与曲线积分/9-2 利用直角坐标系计算二重积分_230417_155613.pdf",
+    "学校课程/习思想/专题五 新时代中国特色社会主义思想.md",
+    "学校课程/信息检索与信息素养/中国近代史纲要/开篇.pdf",
+    "学校课程/程序设计Ⅱ/Java考试-衍生.md",
+    "学校课程/程序设计Ⅱ/Java考试-判断题.md",
+    "学校课程/信息检索与信息素养/中国近代史纲要/第一章.pdf",
+    "学校课程/离散数学/第一章/11命题符号以及联结词.pdf",
+    "学校课程/离散数学/第一章/1x 总结.pdf",
+    "学校课程/习思想/专题一  新时代 新思想 新飞跃.md",
+    "学校课程/习思想/专题二 坚持党的全面领导.md",
+    "学校课程/习思想/专题八 人类命运共同体.md",
+    "课外课程/机器学习/知识点/知识点内容/神经网络.md",
+    "课外课程/机器学习/知识点/知识点内容/卷积神经网络CNN.md",
+    "学校课程/程序设计Ⅱ/黑马程序员java/Java基础.md",
+    "学校课程/程序设计Ⅱ/黑马程序员java/Java的内存分配.md",
+    "学校课程/程序设计Ⅱ/黑马程序员java/未命名.md",
+    "学校课程/程序设计Ⅱ/黑马程序员java/String字符串.md",
+    "学校课程/程序设计Ⅱ/黑马程序员java/JDK和JRE.md",
+    "课外课程/机器学习/机器视觉/MINIST手写识别.md",
+    "课外课程/机器学习/机器视觉/机器视觉附件/MINIST手写识别文件结构.png",
+    "软件使用/Blender/快捷键.md",
+    "软件使用/Blender/概念.md",
+    "学校课程/离散数学/第一章/13 命题逻辑等值逻辑.pdf",
+    "软件使用/obsidian/表格拷贝到 Obsidian.md",
+    "软件使用/obsidian/obsidan使用.md",
+    "软件使用/obsidian/创建交互式图形.md",
+    "CET/讲义/1.预备课/预备课讲义打印版PDF.pdf",
+    "CET/Tips.md",
+    "软件使用/Blender",
     "软件使用/PS/PS附件/Ⅰ Step7.png",
     "软件使用/PS/PS附件/Ⅰ Step6.png",
     "软件使用/PS/PS附件/Ⅰ Step5.png",
     "软件使用/PS/PS附件/Ⅰ Step4.png",
     "软件使用/PS/PS附件/Ⅰ Step3.png",
-    "软件使用/obsidian/MarkDown语法.md",
-    "软件使用/obsidian/obsidan使用.md",
-    "软件使用/obsidian/创建交互式图形.md",
-    "软件使用/obsidian/表格拷贝到 Obsidian.md",
     "软件使用/PS/PS附件/Ⅰ Step2.png",
     "软件使用/PS/PS附件/Ⅰ Step1.png",
-    "0-临时文件/未命名.md",
-    "学校课程/README.md",
     "CET/tips附件/听力tips1.png",
-    "软件使用/eslipse.md",
-    "README.md",
-    "系统操作/windows/Path环境变量.md",
-    "系统操作/windows/cmd操作.md",
-    "系统操作/Liunx/liunx指令.md",
-    "0-临时文件/计划.md",
-    "学校课程/程序设计Ⅰ/各种编程语言的不同.md",
-    "学校课程/程序设计Ⅱ/黑马程序员java/未命名.md",
     "课外课程/机器学习/知识点/知识点附件/池化层演示.png",
-    "学校课程/小学期2023.6/无效（取消）订单比例&未支付订单分布图.png",
     "课外课程/Linear Algebra/线性代数.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
